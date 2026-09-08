@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# startup_ideas
+# Startup_Ideas_Evaluator 
 
 A new Flutter project.
 
@@ -232,4 +231,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 Made with ❤️ and Flutter
 
 </div>
->>>>>>> c67af0d7867d769a576deb35e87add98769aaed5
+
