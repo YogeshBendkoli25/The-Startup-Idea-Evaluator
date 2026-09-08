@@ -40,11 +40,15 @@ It's built as a clean, modern reference app showcasing **BLoC/Cubit state manage
 ---
 
 ## 📸 Screenshots
-https://github.com/YogeshBendkoli25/The-Startup-Idea-Evaluator/blob/main/1.png?raw=true
 
-https://github.com/YogeshBendkoli25/The-Startup-Idea-Evaluator/blob/main/2.png?raw=true
+![Intro   Home Category](https://github.com/YogeshBendkoli25/The-Startup-Idea-Evaluator/blob/main/1.png?raw=true
+)
+![Intro   Home Category](https://github.com/YogeshBendkoli25/The-Startup-Idea-Evaluator/blob/main/2.png?raw=true
+)
+![Intro   Home Category](https://github.com/YogeshBendkoli25/The-Startup-Idea-Evaluator/blob/main/3.png?raw=true
+)
 
-https://github.com/YogeshBendkoli25/The-Startup-Idea-Evaluator/blob/main/3.png?raw=true
+
 
 
 ---
